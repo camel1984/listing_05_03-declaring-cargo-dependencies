@@ -1,7 +1,7 @@
 
 # command
 
-
+the reason I choose tomcat 6 is because the servlet api is 2.6, and tomcat 6 is compatible with servlet 2.5.
 gradle deployToLocalTomcat
 
 http://127.0.0.1:8080/todo
